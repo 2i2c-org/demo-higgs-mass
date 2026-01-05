@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 951f5922-d4d9-46db-90b4-3cc8d805087a
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/2i2c-org/demo-higgs-mass
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
