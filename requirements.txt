@@ -8,6 +8,8 @@ pandas
 matplotlib
 mplhep>=0.4
 scipy>=1.16
+hepunits
+particle
 
 # Execution
 jupyter-book>=2.0.0
