@@ -15,7 +15,7 @@ Prior to the invention of the Higgs mechanism, it was not known how to formulate
 -- [Brief History of the Higgs Mechanism](https://www.ph.ed.ac.uk/higgs/brief-history)
 :::
 
-In addition, the mechanism yields a massive (spin-zero) <wiki:scalar_boson> termed the Higgs boson, whose mass is derived from excitations of that field. It is this particle, through its unique decay signature, that was postulated as a candidate for experimental proof of the Higgs mechanism. In 2012, the <wiki:Higgs_boson> was discovered independently by the <wiki:Compact_Muon_Solenoid> and <wiki:ATLAS_experiment> experiments at the <wiki:Large_Hadron_Collider>, with a subsequent confidence of over 5 sigma — that the observed result lies more than five standard deviations (of the measurement) away from the "null hypothesis".
+In addition, the mechanism yields a massive (spin-zero) <wiki:scalar_boson> termed the Higgs boson, whose mass is derived from excitations of that field. It is this particle, through its unique decay signature, that was postulated as a candidate for experimental proof of the Higgs mechanism. In 2012, the <wiki:Higgs_boson> was discovered independently by the <wiki:Compact_Muon_Solenoid> and [ATLAS](wiki:ATLAS_experiment) experiments at the <wiki:Large_Hadron_Collider>, with a subsequent confidence of over 5 sigma — that the observed result lies more than five standard deviations (of the measurement) away from the "null hypothesis".
 
 :::{pull-quote}
 Five sigma is considered the “gold standard” in particle physics because it guarantees an extremely low likelihood of a claim being false.
