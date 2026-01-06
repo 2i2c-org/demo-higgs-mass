@@ -3,10 +3,17 @@ pyarrow>=22.0
 awkward>=2.8
 numpy>=2
 uproot>=5.6
-jupyter-book>=2.0.0
-jupyter-server
-ipykernel
 vector>=1.7
 pandas
 matplotlib
-mplhep
+mplhep>=0.4
+scipy>=1.16
+
+# Execution
+jupyter-book>=2.0.0
+jupyter-server
+ipykernel
+
+# Editor
+jupyterlab>=4.4
+jupyterlab-myst
