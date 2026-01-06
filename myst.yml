@@ -1,5 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
+extends:
+  - https://raw.githubusercontent.com/2i2c-org/demo-shared-content/refs/heads/main/myst.shared.yaml
 project:
   id: 951f5922-d4d9-46db-90b4-3cc8d805087a
   # title:
@@ -12,7 +14,9 @@ project:
     - file: main.md
     - file: analysis.ipynb
 site:
-  template: book-theme
+  options:
+    logo_text: Discovering Higgs
+
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
