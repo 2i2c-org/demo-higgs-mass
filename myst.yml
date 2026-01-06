@@ -8,6 +8,9 @@ project:
   # description:
   # keywords: []
   # authors: []
+  abbreviations:
+    LHC: Large Hadron Collider
+
   github: 2i2c-org/demo-higgs-mass
   references:
     shared: https://2i2c.org/demo-shared-content
