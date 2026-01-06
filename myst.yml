@@ -8,7 +8,13 @@ project:
   # description:
   # keywords: []
   # authors: []
-  github: https://github.com/2i2c-org/demo-higgs-mass
+  github: 2i2c-org/demo-higgs-mass
+  references:
+    shared: https://2i2c.org/demo-shared-content
+  jupyter:
+    binder:
+      url: https://binder.opensci.2i2c.cloud/
+      repo: https://github.com/2i2c-org/demo-higgs-mass/
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: main.md
