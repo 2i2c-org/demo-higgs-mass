@@ -11,6 +11,10 @@ scipy>=1.15
 hepunits
 particle
 
+# Interactivity
+ipywidgets
+ipympl
+
 # Execution
 jupyter-book>=2.0.0
 jupyter-server

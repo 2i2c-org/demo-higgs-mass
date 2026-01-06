@@ -71,5 +71,9 @@ But, we can also take permutations of events with 2u and 2e:
 Through the ZZ* decay mode, we know that one of the Z bosons should be in its ground state. We can try to select events that satisfy this constraint via a "cut" that eliminates events failing this criterion:
 
 :::{figure} #on-shell-zz-2u2e
-{math}`ZZ^\star \rightarrow 2\mu 2e` decay channel of the Higgs boson gated on the ground state of Z.
+{math}`ZZ^\star \rightarrow 2\mu 2e` decay channel of the Higgs boson gated on the ground state of Z. 
+
+```{tip}
+Click the Power button, and Play button of this figure to trigger execution.
+```
 :::
